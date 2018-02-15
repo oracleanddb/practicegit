@@ -1,0 +1,4 @@
+please excute below commands
+ls 
+sudo 
+install
